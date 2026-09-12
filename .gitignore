@@ -361,3 +361,31 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+*.log
+*.tlog
+*.idb
+*.pdb
+*.ilk
+
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build/
+out/
+
+
+.DS_Store
+Thumbs.db
